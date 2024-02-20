@@ -39,6 +39,24 @@ The primary objective is to generate a text-based thumbnails dataset containing 
 - **Mapping_Script.py:**
   - Script for mapping thumbnails to original file names and organizing into folders.
 
+- **Generated_Word_Files:**
+  - Directory holding Word documents containing the generated essays.
+
+- **Screenshots:**
+  - Screenshots of the Word documents.
+
+- **Unmapped_Thumbnails:**
+  - Thumbnails of various resolutions (Extra Large, Large, Medium) extracted from the Word documents.
+
+- **Mapping:**
+  - Contains mapping tables (CSV files) for linking thumbnails to original file names.
+
+- **Database_Files:**
+  - Thumbcache database files.
+
+- **Mapped_Thumbnails:**
+  - Organized folders with mapped thumbnails.
+
 ## Usage
 
 Explore, utilize, and contribute to this repository for research and educational purposes. If you have any questions or suggestions, please open an issue.
