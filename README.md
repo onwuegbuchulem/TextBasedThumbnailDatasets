@@ -48,8 +48,6 @@ The primary objective is to generate a text-based thumbnails dataset containing 
 - **Unmapped_Thumbnails:**
   - Thumbnails of various resolutions (Extra Large, Large, Medium) extracted from the Word documents.
 
-- **Mapping:**
-  - Contains mapping tables (CSV files) for linking thumbnails to original file names.
 
 - **Database_Files:**
   - Thumbcache database files.
@@ -58,7 +56,7 @@ The primary objective is to generate a text-based thumbnails dataset containing 
   - Organized folders with mapped thumbnails.
 
 - **Mapping_Tables:**
-  - CSV files containing mapping tables.
+  - Text files containing mapping tables.
 
 ## Usage
 
