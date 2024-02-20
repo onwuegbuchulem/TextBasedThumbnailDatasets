@@ -57,6 +57,9 @@ The primary objective is to generate a text-based thumbnails dataset containing 
 - **Mapped_Thumbnails:**
   - Organized folders with mapped thumbnails.
 
+- **Mapping_Tables:**
+  - CSV files containing mapping tables.
+
 ## Usage
 
 Explore, utilize, and contribute to this repository for research and educational purposes. If you have any questions or suggestions, please open an issue.
